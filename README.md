@@ -18,7 +18,7 @@ If you want to use artwork not included in this repository, please email <suppor
 
 * Create a modified version of ANY of the logos ([Exceptions](https://github.com/netdna/media/tree/master/Examples/Exceptions) can be made with with written permission <support@netdna.com>)
 
-* Integrate ANY the logos into your logo
+* Integrate ANY of the logos into your logo
 
 * Use ANY artwork without permission
 
