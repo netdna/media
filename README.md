@@ -12,7 +12,7 @@ If you want to use artwork not included in this repository, please email <suppor
 * Use the logo's in a blog post or news article about NetDNA, MaxCDN, CloudCache or HDDN.
 
 
-## Please don't do these things:
+## [Please don't do these things](https://github.com/netdna/media/tree/master/Examples/Bad):
 
 * Use the ANY logos for your application(s)/site(s) icon/favicon
 
