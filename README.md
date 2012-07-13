@@ -16,7 +16,7 @@ If you want to use artwork not included in this repository, please email <suppor
 
 * Use the ANY logos for your application(s)/site(s) icon/favicon
 
-* Create a modified version of ANY of the logos (Exceptions can be made with with written permission <support@netdna.com>)
+* Create a modified version of ANY of the logos ([Exceptions](https://github.com/netdna/media/tree/master/Examples/Exceptions) can be made with with written permission <support@netdna.com>)
 
 * Integrate ANY the logos into your logo
 
